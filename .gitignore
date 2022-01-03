@@ -1,3 +1,4 @@
 zig-cache/
 /build/
 /build-*/
+zig-out/lib/libzig_earcut.a
